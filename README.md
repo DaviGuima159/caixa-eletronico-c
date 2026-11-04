@@ -150,6 +150,8 @@ Saldo restante: R$ 877
 
 ## 👥 Autores
 
+   - Davi Guimarães – [@DaviGuima159](https://github.com/DaviGuima159)
+
 Trabalho desenvolvido pelo **Grupo 05** – Engenharia de Software, UNICID.
 
 <!-- Adicione aqui os nomes/GitHub dos integrantes, por exemplo:
